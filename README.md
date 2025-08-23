@@ -8,7 +8,7 @@ I’m a researcher at **UC Riverside’s MIGCrest Lab**, passionate about levera
 
 ---
 
-## 🔬 Current Focus
+## 🖥️ Current Focus
 - Rare-cell population detection in **single-cell RNA-seq (scRNA-seq)** using CIARA and BigSur  
 - Building **interactive Shiny apps** for exploring gene expression in early development  
 - Developing **reproducible workflows** in R and Python (Seurat, Scanpy, Snakemake, Nextflow)  
@@ -102,7 +102,7 @@ Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokary
 -->
 ---
 
-## 🌱 Interests  
+## 🪴 Interests  
 - Open science and reproducible workflows  
 - Single-cell + spatial multi-omics integration  
 - Rare-cell algorithm development  
@@ -111,12 +111,12 @@ Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokary
 
 ---
 
-## 📫 Let’s Connect  
+## 📬 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constanza-eugenia-perez-37788a1b7)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:perezeconse@gmail.com)  
 
-🐙 **Explore my repositories below!** ⤵  
+👾 **Explore my repositories below!** ⤵  
 
 ---
 
