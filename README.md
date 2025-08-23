@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Constanza Perez  
+# 👋 Hi there, my name is Constanza Perez! AKA ceugenia  
 
 **Computational Biologist & AI Researcher | Bridging Wet-Lab & Dry-Lab Science**  
 
