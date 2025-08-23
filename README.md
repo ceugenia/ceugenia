@@ -113,7 +113,7 @@ Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokary
 
 ## 📬 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constanza-eugenia-perez-37788a1b7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constanza-eugenia)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:perezeconse@gmail.com)  
 
 👾 **Explore my repositories below!** ⤵  
