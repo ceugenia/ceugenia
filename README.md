@@ -1,16 +1,123 @@
-## Hi there 👋
+# 👋 Hi there, I'm Constanza Perez  
+
+**Computational Biologist & AI Researcher | Bridging Wet-Lab & Dry-Lab Science**  
+
+I’m a researcher at **UC Riverside’s MIGCrest Lab**, passionate about leveraging **machine learning and bioinformatics** to decode complex biological systems. My current work focuses on **single-cell transcriptomics, neural crest development, and building reproducible tools** that make genomic data more accessible and interpretable.  
+
+*"Turning data into biological insight — one pipeline at a time."*  
+
+---
+
+## 🔬 Current Focus
+- Rare-cell population detection in **single-cell RNA-seq (scRNA-seq)** using CIARA and BigSur  
+- Building **interactive Shiny apps** for exploring gene expression in early development  
+- Developing **reproducible workflows** in R and Python (Seurat, Scanpy, Snakemake, Nextflow)  
+- Researching **neural crest lineage segregation** during early embryogenesis  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Environments:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+**Bioinformatics & ML:**  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-0C0C0C?style=for-the-badge)
+![Scanpy](https://img.shields.io/badge/Scanpy-0C0C0C?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-0C0C0C?style=for-the-badge)
+
+**Visualization & Tools:**  
+![Shiny](https://img.shields.io/badge/Shiny-0C0C0C?style=for-the-badge&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-0C0C0C?style=for-the-badge&logo=r&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
-**ceugenia/ceugenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📁 Featured Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔬 [CIARA Rare-Cell Detection Benchmark](link-to-CIARA-repo)
+Benchmarking **CIARA** vs **BigSur** on human gastrula datasets (GSE136447, E-MTAB-9388).  
+*Outcome: CIARA achieved recall = 0.92 at low read depth; identified rare hemogenic endothelial progenitors.*  
+
+---
+
+### 🧪 [ShinyApp for scRNA-seq Visualization](link-to-MIGCrestLab-ShinyApp)
+Interactive app for exploring **Seurat clusters, gene expression, and marker heatmaps** in neural crest datasets.  
+*Outcome: Reduced data exploration time by ~40% for collaborators.*  
+
+---
+
+### 🧠 [Interactive NEURON Simulation Dashboard](link-to-plotlytesting-repo)
+Plotly/Dash web app to visualize **neural prosthesis models** simulated in NEURON.  
+*Outcome: Enabled non-coders to explore firing phenotypes interactively; deployed on Heroku.*  
+
+---
+
+### 🖼️ [ImageJ PTBP1 Analysis](link-to-imagej-repo)
+Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokaryon assays.  
+*Outcome: Identified novel nuclear retention pattern; presented at CSUF Research Symposium (2021).*  
 -->
+---
+
+## 👩‍💻 Experience  
+
+### **Assistant Computational Researcher** @ [MIGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)
+*(2023 – Present)*  
+- Built scRNA-seq pipelines (Seurat, CIARA, BigSur) for rare population detection  
+- Developed a ShinyApp used by the lab for exploratory data analysis  
+- Integrated multi-omics data (Visium spatial transcriptomics) with transcriptomic results  
+
+### **Machine Learning Trainee** @ [SCIP 2024](https://sfsuscip.wixsite.com/scip)  
+*(May – Jun 2024)*  
+- Applied ML models (XGBoost, Random Forest, Logistic Regression) to **clinical + omics datasets**  
+- Delivered reproducible workflows in Python with scikit-learn  
+
+---
+
+## 📚 Education  
+- **B.S. Microbiology** @ University of California, Riverside *(2023 – 2025)*  
+- **Machine Learning for Medicine Track** @ SCIP (2024)  
+- **Biotechnology Laboratory Assistant Certificate** @ CSU Fullerton (2021)  
+
+<!--
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceugenia&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceugenia&layout=compact&theme=radical&hide_border=true" />
+</p>
+-->
+---
+
+## 🌱 Interests  
+- Open science and reproducible workflows  
+- Single-cell + spatial multi-omics integration  
+- Rare-cell algorithm development  
+- Ethical AI in biomedical research  
+- Mentoring students in computational biology  
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constanza-eugenia-perez-37788a1b7)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:perezeconse@gmail.com)  
+
+🐙 **Explore my repositories below!** ⤵  
+
+---
+
+*"Turning data into biological insight — one pipeline at a time."*  
