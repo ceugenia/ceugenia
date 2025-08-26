@@ -1,7 +1,6 @@
 # 👋 Hi there, my name is **Constanza Perez**! (AKA **ceugenia**)  
 
-**Computational Biologist & AI Researcher | Bridging Wet-Lab & Dry-Lab Science**  
-*"Turning data into biological insight — one pipeline at a time."*  
+**Microbiologist🪴Computational Biologist bridging AI & biology | Rare-cell detection, scRNA-seq, and interactive genomics tools 🚀👾**  
 
 I’m a researcher at **UC Riverside’s MIGCrest Lab**, passionate about leveraging **machine learning and bioinformatics** to decode complex biological systems. My current work focuses on **single-cell transcriptomics, neural crest development, and building reproducible tools** that make genomic data more accessible and interpretable.  
 
