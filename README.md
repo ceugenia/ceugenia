@@ -1,13 +1,14 @@
-# 👋 Hi there, my name is Constanza Perez! AKA ceugenia  
+# 👋 Hi there, my name is **Constanza Perez**! (AKA **ceugenia**)  
 
 **Computational Biologist & AI Researcher | Bridging Wet-Lab & Dry-Lab Science**  
+*"Turning data into biological insight — one pipeline at a time."*  
 
 I’m a researcher at **UC Riverside’s MIGCrest Lab**, passionate about leveraging **machine learning and bioinformatics** to decode complex biological systems. My current work focuses on **single-cell transcriptomics, neural crest development, and building reproducible tools** that make genomic data more accessible and interpretable.  
 
 ---
 
-## 🖥️ Current Focus
-- Rare-cell population detection in **single-cell RNA-seq (scRNA-seq)** using CIARA and BigSur  
+## 🖥️ Current Focus  
+- Rare-cell population detection in **single-cell RNA-seq (scRNA-seq)** using **CIARA** and **BigSur**  
 - Building **interactive Shiny apps** for exploring gene expression in early development  
 - Developing **reproducible workflows** in R and Python (Seurat, Scanpy, Snakemake, Nextflow)  
 - Researching **neural crest lineage segregation** during early embryogenesis  
@@ -39,44 +40,47 @@ I’m a researcher at **UC Riverside’s MIGCrest Lab**, passionate about levera
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
 ---
 
 ## 📁 Featured Projects  
 
-### 🔬 [CIARA Rare-Cell Detection Benchmark](link-to-CIARA-repo)
+### 🧬 [immune-chord](https://github.com/ceugenia/immune-chord)  
+R pipeline for identifying rare cell populations (neural crest stem cells, immune subsets) using **BigSur**.  
+*Outcome: End-to-end reproducible workflow with Conda environment management and publication-ready visuals.*  
+*Tech: R, BigSur, Seurat, Conda, UMAP, QC plots*  
+
+---
+
+### 🖼️ [PTBP1 ImageJ Analysis](https://github.com/ceugenia/ptbp1-imagej-analysis)  
+Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokaryon assays using ImageJ/Fiji and Python.  
+*Outcome: Analyzed **26,040 cells**; identified novel nuclear retention pattern; presented at CSUF Research Symposium (2021).*  
+*Tech: ImageJ, Python, OpenCV, scikit-image, Dash*  
+
+---
+
+### 🔬 CIARA-MGCrestLab-SC 🔒 (Private)  
 Benchmarking **CIARA** vs **BigSur** on human gastrula datasets (GSE136447, E-MTAB-9388).  
-*Outcome: CIARA achieved recall = 0.92 at low read depth; identified rare hemogenic endothelial progenitors.*  
+*Outcome: CIARA achieved **recall = 0.92** at low read depth; identified rare hemogenic endothelial progenitors.*  
+*Tech: R, Seurat, Python, Jupyter, UMAP, Volcano Plots*  
 
 ---
 
-### 🧪 [ShinyApp for scRNA-seq Visualization](link-to-MIGCrestLab-ShinyApp)
-Interactive app for exploring **Seurat clusters, gene expression, and marker heatmaps** in neural crest datasets.  
-*Outcome: Reduced data exploration time by ~40% for collaborators.*  
+### 🧪 MIGCrestLab ShinyApp 🔒 (Private)  
+Interactive Shiny app for exploring **Seurat clusters, gene expression, and marker heatmaps** in neural crest datasets.  
+*Outcome: Reduced data exploration time by ~40% for wet-lab collaborators.*  
+*Tech: R, Shiny, Seurat, ggplot2, Plotly, VennDiagram*  
 
----
-
-### 🧠 [Interactive NEURON Simulation Dashboard](link-to-plotlytesting-repo)
-Plotly/Dash web app to visualize **neural prosthesis models** simulated in NEURON.  
-*Outcome: Enabled non-coders to explore firing phenotypes interactively; deployed on Heroku.*  
-
----
-
-### 🖼️ [ImageJ PTBP1 Analysis](link-to-imagej-repo)
-Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokaryon assays.  
-*Outcome: Identified novel nuclear retention pattern; presented at CSUF Research Symposium (2021).*  
--->
 ---
 
 ## 👩‍💻 Experience  
 
-### **Assistant Computational Researcher** @ [MIGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)
+### **Assistant Computational Researcher** @ [MIGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)  
 *(2023 – Present)*  
 - Built scRNA-seq pipelines (Seurat, CIARA, BigSur) for rare population detection  
 - Developed a ShinyApp used by the lab for exploratory data analysis  
 - Integrated multi-omics data (Visium spatial transcriptomics) with transcriptomic results  
 
-### **Machine Learning Trainee** @ [SCIP 2024](https://sfsuscip.wixsite.com/scip)  
+### **Machine Learning Trainee** @ [SCIP 2024 - Science Coding Immersion Program](https://sfsuscip.wixsite.com/scip)  
 *(May – Jun 2024)*  
 - Applied ML models (XGBoost, Random Forest, Logistic Regression) to **clinical + omics datasets**  
 - Delivered reproducible workflows in Python with scikit-learn  
@@ -85,19 +89,9 @@ Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokary
 
 ## 📚 Education  
 - **B.S. Microbiology** @ University of California, Riverside *(2023 – 2025)*  
-- **Machine Learning for Medicine Track** @ SCIP (2024)  
+- **Machine Learning for Medicine Track** @ SCIP - Science Coding Immersion Program (2024)  
 - **Biotechnology Laboratory Assistant Certificate** @ CSU Fullerton (2021)  
 
-<!--
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceugenia&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceugenia&layout=compact&theme=radical&hide_border=true" />
-</p>
--->
 ---
 
 ## 🪴 Interests  
@@ -117,5 +111,3 @@ Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokary
 👾 **Explore my repositories below!** ⤵  
 
 ---
-
-*"Turning data into biological insight — one pipeline at a time."*  
