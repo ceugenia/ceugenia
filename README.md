@@ -53,7 +53,7 @@ R pipeline for identifying rare cell populations (neural crest stem cells, immun
 
 ### 🖼️ [PTBP1 ImageJ Analysis](https://github.com/ceugenia/ptbp1-imagej-analysis)  
 Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokaryon assays using ImageJ/Fiji and Python.  
-*Outcome: Analyzed **26,040 cells**; identified novel nuclear retention pattern; presented at CSUF Research Symposium (2021).*  
+*Outcome: Analyzed **26,040 cells**; identified novel nuclear retention pattern; presented initial results for this project at CSUF Research Symposium (2021).*  
 *Tech: ImageJ, Python, OpenCV, scikit-image, Dash*  
 
 ---
