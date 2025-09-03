@@ -89,7 +89,7 @@ Interactive Shiny app for exploring **Seurat clusters, gene expression, and mark
 ## 📚 Education  
 - **B.S. Microbiology** @ University of California, Riverside *(2023 – 2025)*  
 - **Machine Learning for Medicine Track** @ SCIP - Science Coding Immersion Program (2024)  
-- **Biotechnology Laboratory Assistant Certificate** @ CSU Fullerton (2021)  
+- **Biotechnology Laboratory Assistant Certificate** @ Fullerton College (2020)  
 
 ---
 
