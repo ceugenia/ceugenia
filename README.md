@@ -2,7 +2,7 @@
 
 **Microbiologist🪴Computational Biologist bridging AI & biology | Rare-cell detection, scRNA-seq, and interactive genomics tools 🚀👾**  
 
-I’m a researcher at **UC Riverside’s MIGCrest Lab**, passionate about leveraging **machine learning and bioinformatics** to decode complex biological systems. My current work focuses on **single-cell transcriptomics, neural crest development, and building reproducible tools** that make genomic data more accessible and interpretable.  
+I’m a researcher at **UC Riverside’s MGCrest Lab**, passionate about leveraging **machine learning and bioinformatics** to decode complex biological systems. My current work focuses on **single-cell transcriptomics, neural crest development, and building reproducible tools** that make genomic data more accessible and interpretable.  
 
 ---
 
