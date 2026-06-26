@@ -64,7 +64,7 @@ Benchmarking **CIARA** vs **BigSur** on human gastrula datasets (GSE136447, E-MT
 
 ---
 
-### 🧪 MIGCrestLab ShinyApp 🔒 (Private)  
+### 🧪 MGCrestLab ShinyApp 🔒 (Private)  
 Interactive Shiny app for exploring **Seurat clusters, gene expression, and marker heatmaps** in neural crest datasets.  
 *Outcome: Reduced data exploration time by ~40% for wet-lab collaborators.*  
 *Tech: R, Shiny, Seurat, ggplot2, Plotly, VennDiagram*  
@@ -73,7 +73,7 @@ Interactive Shiny app for exploring **Seurat clusters, gene expression, and mark
 
 ## 👩‍💻 Experience  
 
-### **Assistant Researcher** @ [MIGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)  
+### **Assistant Researcher** @ [MGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)  
 *(2023 – Present)*  
 - Built scRNA-seq pipelines (Seurat, CIARA, BigSur) for rare population detection  
 - Developed a ShinyApp used by the lab for exploratory data analysis  
