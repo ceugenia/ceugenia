@@ -1,112 +1,246 @@
-# 👋 Hi there, my name is **Constanza Perez**! (AKA **ceugenia**)  
+# 👋 Hi there, my name is Constanza Eugenia Perez! (AKA ceugenia)
 
-**Microbiologist🪴Computational Biologist bridging AI & biology | Rare-cell detection, scRNA-seq, and interactive genomics tools 🚀👾**  
+**Data Analytics Professional | SnowPro Core Certified | SQL | Python | Snowflake | Bioinformatics**
 
-I’m a researcher at **UC Riverside’s MGCrest Lab**, passionate about leveraging **machine learning and bioinformatics** to decode complex biological systems. My current work focuses on **single-cell transcriptomics, neural crest development, and building reproducible tools** that make genomic data more accessible and interpretable.  
+Data professional with a background in microbiology, bioinformatics, and computational research, focused on data analytics and building expertise toward data engineering. I have hands-on experience working with Python, R, SQL, single-cell RNA sequencing data, exploratory data analysis, and computational biology workflows. My research background has given me experience working with large and complex datasets, developing reproducible analytical workflows, troubleshooting technical problems, and communicating data-driven findings. I am SnowPro Core Certified and actively expanding my skills in cloud data platforms, SQL, data warehousing, and modern data engineering practices.
 
----
+**Technical Interests:** Data Analytics · SQL · Python · Snowflake · Data Warehousing · ETL/ELT · Exploratory Data Analysis (EDA) · Data Visualization · Bioinformatics · Computational Biology
 
-## 🖥️ Current Focus  
-- Rare-cell population detection in **single-cell RNA-seq (scRNA-seq)** using **CIARA** and **BigSur**  
-- Building **interactive Shiny apps** for exploring gene expression in early development  
-- Developing **reproducible workflows** in R and Python (Seurat, Scanpy, Snakemake, Nextflow)  
-- Researching **neural crest lineage segregation** during early embryogenesis  
+**Career Path:** Currently focused on Data Analytics with strategic growth toward Data Engineering roles. Seeking remote Data Analyst, Analytics Engineer, and Bioinformatics/Data Analyst positions where I can leverage scientific background to drive data-driven insights.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🖥️ Current Focus
 
-**Languages & Environments:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-**Bioinformatics & ML:**  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-0C0C0C?style=for-the-badge)
-![Scanpy](https://img.shields.io/badge/Scanpy-0C0C0C?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-0C0C0C?style=for-the-badge)
-
-**Visualization & Tools:**  
-![Shiny](https://img.shields.io/badge/Shiny-0C0C0C?style=for-the-badge&logo=r&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-0C0C0C?style=for-the-badge&logo=r&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Data analytics & exploration** of large-scale single-cell RNA-seq datasets
+- **Building interactive data visualizations** with Shiny apps for exploratory analysis
+- **Developing data quality workflows** for transcriptomic data pipelines
+- **Statistical analysis & pattern identification** in complex biological datasets
+- **ETL/ELT fundamentals** and data pipeline design (building toward data engineering)
 
 ---
 
-## 📁 Featured Projects  
+## 🛠️ Tech Stack
 
-### 🧬 [immune-chord](https://github.com/ceugenia/immune-chord)  
-R pipeline for identifying rare cell populations (neural crest stem cells, immune subsets) using **BigSur**.  
-*Outcome: End-to-end reproducible workflow with Conda environment management and publication-ready visuals.*  
-*Tech: R, BigSur, Seurat, Conda, UMAP, QC plots*  
+**Top Skills:**
+Snowflake · SQL · Python · Data Analytics · Data Visualization · scRNA-seq · Seurat · Scanpy · R
 
----
+**Languages & Environments:**
+Python · R · Bash · SQL · Jupyter · Google Colab
 
-### 🖼️ [PTBP1 ImageJ Analysis](https://github.com/ceugenia/ptbp1-imagej-analysis)  
-Automated quantification of **PTBP1 (RRM2 domain) localization** from heterokaryon assays using ImageJ/Fiji and Python.  
-*Outcome: Analyzed **26,040 cells**; identified novel nuclear retention pattern; presented initial results for this project at CSUF Research Symposium (2021).*  
-*Tech: ImageJ, Python, OpenCV, scikit-image, Dash*  
+**Data Analytics & Visualization:**
+Exploratory Data Analysis (EDA) · Data Wrangling · Statistical Analysis · Plotly · Dash · Shiny · ggplot2 · Data Storytelling
 
----
+**Databases & Platforms:**
+SQL · Snowflake · Data Curation · Data Cleaning · Data Quality · Database Management · Electronic Data Capture (EDC)
 
-### 🔬 CIARA-MGCrestLab-SC 🔒 (Private)  
-Benchmarking **CIARA** vs **BigSur** on human gastrula datasets (GSE136447, E-MTAB-9388).  
-*Outcome: CIARA achieved **recall = 0.92** at low read depth; identified rare hemogenic endothelial progenitors.*  
-*Tech: R, Seurat, Python, Jupyter, UMAP, Volcano Plots*  
+**Programming:**
+Python (Pandas, NumPy, Scikit-learn) · R (Tidyverse, Seurat, Shiny) · MATLAB · Java · C/C++
 
----
+**Data Analysis & Machine Learning:**
+Decision Trees · Random Forests · XGBoost · Logistic Regression · Model Evaluation · Feature Engineering
 
-### 🧪 MGCrestLab ShinyApp 🔒 (Private)  
-Interactive Shiny app for exploring **Seurat clusters, gene expression, and marker heatmaps** in neural crest datasets.  
-*Outcome: Reduced data exploration time by ~40% for wet-lab collaborators.*  
-*Tech: R, Shiny, Seurat, ggplot2, Plotly, VennDiagram*  
+**Bioinformatics & Computational Biology:**
+Single-Cell RNA-seq · Bulk RNA-seq · Transcriptomic Profiling · Seurat · Scanpy · CIARA · Monocle3 · Destiny
 
----
+**Visualization & Development:**
+Plotly · Dash · Shiny · ImageJ/Fiji · OpenCV · scikit-image · Git · GitHub · Linux
 
-## 👩‍💻 Experience  
+**Professional:**
+Data Quality Control · Documentation · SOP Development · Research Collaboration · HIPAA Compliance
 
-### **Computational Biology Lead** @ [MGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)  
-*(2023 – Present)*  
-- Built scRNA-seq pipelines (Seurat, CIARA, BigSur) for rare population detection  
-- Developed a ShinyApp used by the lab for exploratory data analysis  
-- Integrated multi-omics data (Visium spatial transcriptomics) with transcriptomic results  
-
-### **Machine Learning Trainee** @ [SCIP 2024 - Science Coding Immersion Program](https://sfsuscip.wixsite.com/scip)  
-*(May – Jun 2024)*  
-- Applied ML models (XGBoost, Random Forest, Logistic Regression) to **clinical + omics datasets**  
-- Delivered reproducible workflows in Python with scikit-learn  
+**Languages:**
+English (Native or Bilingual) · Spanish (Native or Bilingual)
 
 ---
 
-## 📚 Education  
-- **B.S. Microbiology** @ University of California, Riverside *(2023 – 2025)*  
-- **Machine Learning for Medicine Track** @ SCIP - Science Coding Immersion Program (2024)  
-- **Biotechnology Laboratory Assistant Certificate** @ Fullerton College (2020)  
+## 📁 Featured Projects
+
+### 🧬 **immune-chord**
+**Data analytics pipeline for identifying rare cell populations in single-cell RNA-seq data**
+
+- Developed an end-to-end analytical workflow for processing and exploring single-cell RNA sequencing datasets
+- Implemented data quality control, normalization, clustering, PCA, UMAP, and population-level analysis using Seurat
+- Created exploratory data analysis (EDA) visualizations to identify biologically meaningful patterns
+- Organized reproducible analytical workflows using Conda environment management
+- Applied data validation practices to ensure data integrity and reproducibility
+
+**Outcome:** End-to-end reproducible analytics workflow with publication-ready visualizations  
+**Tech:** R · Seurat · Python · Data Analytics · UMAP · EDA · Quality Control
 
 ---
 
-## 🪴 Interests  
-- Open science and reproducible workflows  
-- Single-cell + spatial multi-omics integration  
-- Rare-cell algorithm development  
-- Ethical AI in biomedical research  
-- Mentoring students in computational biology  
+### 🖼️ **PTBP1 ImageJ Analysis Suite**
+**Data analytics pipeline for quantifying protein localization from microscopy datasets**
+
+- Designed and automated an analytical pipeline to explore subcellular PTBP1 localization patterns
+- Processed and analyzed 26,000+ cell images using Python data analysis scripts
+- Applied statistical analysis and feature extraction using OpenCV and scikit-image
+- Developed data visualizations and analytics reports to communicate findings
+
+**Outcome:** Analyzed 26,040 cells; identified novel localization patterns; presented at CSUF Research Symposium (2021)  
+**Tech:** Python · ImageJ/Fiji · OpenCV · scikit-image · Dash · Data Analytics · Statistical Analysis
 
 ---
 
-## 📬 Let’s Connect  
+### 🔬 **CIARA-MGCrestLab-SC** 🔒 (Private)
+**Comparative data analytics: Benchmarking rare-cell detection algorithms on human gastrula datasets**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constanza-eugenia)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:perezeconse@gmail.com)  
+- Performed exploratory data analysis (EDA) on single-cell RNA-seq datasets using R and Python
+- Applied data preprocessing, normalization, dimensionality reduction, and clustering workflows
+- Developed interactive R Shiny application for exploring and visualizing gene-expression patterns
+- Conducted statistical analysis for pseudotime and developmental trajectory data interpretation
+- Created data visualizations to compare algorithm performance and identify rare cell populations
 
-👾 **Explore my repositories below!** ⤵  
+**Outcome:** CIARA achieved recall = 0.92 at low read depth; identified rare hemogenic endothelial progenitors  
+**Tech:** R · Python · Seurat · SQL · Data Analytics · Visualization · Statistical Analysis
 
 ---
+
+### 🧪 **MGCrestLab ShinyApp** 🔒 (Private)
+**Interactive data analytics dashboard for single-cell RNA-seq exploratory analysis**
+
+- Designed interactive data analytics interface for exploring Seurat clusters and gene expression patterns
+- Developed R Shiny applications for visual data exploration and discovery
+- Performed data transformation, quality checks, and statistical analysis on transcriptomic datasets
+- Created data visualizations (heatmaps, scatter plots, bar charts) for biological interpretation
+- Reduced data exploration time by ~40% for research collaborators through interactive analytics
+
+**Outcome:** Significantly improved data exploration efficiency and accessibility  
+**Tech:** R · Shiny · Seurat · ggplot2 · Plotly · VennDiagram · Data Analytics
+
+---
+
+## 👩‍💻 Experience
+
+### **Computational Biology Lead** | MGCrest Lab, University of California Riverside
+**November 2023 – Present (2 years 11 months)**
+
+Single cell transcriptomic analysis and data analytics of neural crest origin
+
+- Lead data analysis and exploration workflows within the lab, providing analytical support and insights to lab members
+- Design and maintain analytical workflows for large-scale single-cell and bulk transcriptomic datasets, including data ingestion, cleaning, quality control, transformation, and exploration
+- Develop reproducible analytical pipelines using Python, R, SQL, Seurat, Scanpy, and Linux
+- Perform exploratory data analysis (EDA), data validation, preprocessing, normalization, dimensionality reduction, clustering, and pattern identification to discover biologically meaningful insights
+- Implement data quality control processes and statistical analysis methods for rare-cell detection using CIARA and Monocle3
+- Develop interactive R Shiny applications for data visualization and exploratory analytics
+- Document analytical procedures and maintain data integrity, reproducibility, and workflow consistency across projects
+
+### **CAMP Scholar 2025** | California Louis Stokes Alliance for Minority Participation
+**January 2025 - March 2025 (3 months)**
+
+- Performed exploratory data analysis on single-cell RNA-seq datasets through data preprocessing, normalization, dimensionality reduction, clustering, and quality-control workflows
+- Developed an interactive R Shiny application for exploring and visualizing gene-expression data patterns and trends
+- Applied statistical methods for pseudotime analysis and rare-cell population identification
+- Presented data findings and communicated analytical insights to faculty and research audiences
+
+### **Machine Learning Trainee** | Science Coding Immersion Program (SCIP 2024), San Francisco State University
+**May 2024 - June 2024 (2 months)**
+
+- Built machine-learning and data analytics workflows covering data cleaning, preprocessing, feature preparation, model training, evaluation, and interpretation
+- Applied statistical and machine-learning methods (Logistic Regression, XGBoost) to analyze biological datasets
+- Used Google Colab to develop and evaluate reproducible analytical workflows
+- Collaborated with peers to troubleshoot coding challenges and communicate analytical results
+
+### **Data Specialist** | CenExel ACT (Anaheim Clinical Trials)
+**June 2022 – August 2023 (1 year 3 months)**
+
+- Maintained 99.8% data accuracy while processing, validating, and analyzing clinical research data
+- Managed data across multiple Electronic Data Capture (EDC) platforms and performed data quality analysis
+- Monitored quality-control checks, resolved data discrepancies, and maintained data integrity
+- Analyzed data patterns to identify inconsistencies and improve workflow efficiency
+- Collaborated with clinical research teams on data investigation and resolution
+- Developed and delivered training on data-entry procedures and EDC systems
+- Ensured data compliance and maintained confidentiality and HIPAA standards
+
+### **Undergraduate Research Experience** | Dr. Alison Miyamoto, California State University Fullerton
+**June 2021 – August 2021 (3 months)**
+
+Exploratory analysis of intracellular localization of PTBP1 (RRM2 domain)
+
+- Conducted exploratory data analysis of microscopy datasets investigating protein localization patterns
+- Analyzed and interpreted complex cell imaging data using ImageJ image analysis tools
+- Applied statistical analysis and data visualization to support biological discoveries
+- Presented research findings and analytical insights at a Research Symposium
+
+### **Advanced ReTOOL Trainee** | University of Florida
+**May 2020 - August 2020 (4 months)**
+
+- Conducted literature analysis and data synthesis on the impact of intermittent fasting on breast cancer outcomes
+- Performed data collection, quality analysis, and preliminary statistical examination of research findings
+- Developed research skills in data interpretation and analytical thinking
+
+### **Undergraduate Research Assistant** | Museum Education: Natural History, University of Florida
+**January 2020 - March 2020 (3 months)**
+
+- Conducted literature review and data analysis on museum education methodologies
+- Managed data collection efforts with quality control and preliminary analysis of educational metrics
+- Developed skills in data management and analysis using spreadsheet and database tools
+
+### **STEM Learning Assistant** | Miami Dade College
+**January 2019 - August 2019 (8 months)**
+
+- Analyzed student performance data to identify learning improvement opportunities
+- Collaborated on academic objective development and data-driven tutoring strategies
+- Facilitated tutoring sessions using data-informed instructional approaches
+
+---
+
+## 📚 Education
+
+**University of California, Riverside**  
+*Bachelor of Science - Microbiology | June 2025*
+- University Honors Program
+- Relevant Coursework: Genetics, Molecular Biology, Immunology, Virology, Applied Linear Algebra
+
+**Irvine Valley College**  
+*General Studies and IGETC - Transfer Certifications | June 2023*
+
+**Miami Dade College**  
+*Associate of Arts – Computer Engineering | 2017 - 2019*
+- Highest Honors
+- Dean's List (2017–2019)
+
+---
+
+## 🏆 Certifications
+
+✅ **SnowPro Core Certification** — Snowflake  
+✅ **Hands-On Essentials: Data Engineering Workshop** — Snowflake *(Building foundation for data engineering trajectory)*  
+✅ **Hands-On Essentials: Data Warehousing Workshop** — Snowflake  
+✅ **NASA GeneLab GL4U Intro OnDemand**  
+✅ **Biotechnology Laboratory Assistant Skills Certificate**
+
+**In Progress:** Google Cloud BigQuery Fundamentals · Databricks Fundamentals *(Expanding toward data engineering)*
+
+---
+
+## 🪴 Interests
+
+- Open science and reproducible analytical workflows
+- Data storytelling and communicating insights from complex datasets
+- Single-cell + spatial multi-omics data analytics
+- Exploratory data analysis and pattern discovery
+- Ethical AI in biomedical research and analytics
+- Growing expertise in data engineering and ETL/ELT processes
+
+---
+
+## 🚀 Career Development Path
+
+**Current:** Data Analyst | Data Analytics Engineer  
+**Future Growth:** Data Engineer | Analytics Engineer  
+
+I'm strategically building skills in SQL, data warehousing, and ETL/ELT processes while leveraging my strong foundation in data analytics and scientific data interpretation. My goal is to transition into data engineering roles where I can design and optimize data pipelines while maintaining the analytical rigor I bring from my research background.
+
+---
+
+## 📬 Let's Connect
+
+**Email:** perezeconse@gmail.com  
+**LinkedIn:** linkedin.com/in/constanzaeugenia  
+**GitHub:** github.com/ceugenia
+
+---
+
+**👾 Explore my repositories below! ⤵️**
