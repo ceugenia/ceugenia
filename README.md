@@ -73,7 +73,7 @@ Interactive Shiny app for exploring **Seurat clusters, gene expression, and mark
 
 ## 👩‍💻 Experience  
 
-### **Assistant Researcher** @ [MGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)  
+### **Computational Biology Lead** @ [MGCrest Lab, UC Riverside](https://profiles.ucr.edu/app/home/profile/martingc)  
 *(2023 – Present)*  
 - Built scRNA-seq pipelines (Seurat, CIARA, BigSur) for rare population detection  
 - Developed a ShinyApp used by the lab for exploratory data analysis  
